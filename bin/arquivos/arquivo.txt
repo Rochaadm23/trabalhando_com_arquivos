@@ -1,0 +1,4 @@
+Bob Marley;bob@email.com;3
+Maria Jose;mari@email.com;60
+Luiz Rocha;luiz@email.com;54
+Bart Simpson;bart@email.com;5
